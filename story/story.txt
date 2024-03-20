@@ -1,2 +1,7 @@
 i went to the store
+<<<<<<< HEAD
 and buy cookie
+=======
+hello from amin
+...
+>>>>>>> 087918be447f2e14c16b45dde0516c01d475bfbe
