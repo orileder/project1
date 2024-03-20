@@ -1,16 +1,7 @@
 i went to the store
-<<<<<<< HEAD
-
-
 and now I am good
-=======
 and buy cookie
-<<<<<<< HEAD
->>>>>>> main
-Add more
-=======
 hello from amin
 ...
 the big brown fox
 jumped over the fence
->>>>>>> a805dc5c5a0d12d2d8abcce6e74ceb5ef3b7b110
